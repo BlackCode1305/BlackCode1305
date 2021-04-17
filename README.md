@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackCode1305
-- 👀 I’m interested in how to code.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning PHython as beginner.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
